@@ -1,0 +1,9 @@
+libraries to install
+
+streamlit 
+pandas
+numpy
+matplotlib
+plotly
+folium
+streamlit-folium
